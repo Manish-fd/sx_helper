@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.sx</groupId>
 	<artifactId>sx_helper</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>sx_helper</name>
 	<description>Helpers For Scale Xyzzy</description>
 	<properties>
